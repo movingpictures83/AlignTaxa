@@ -1,0 +1,2 @@
+Prefix plugins/AlignTaxa/example/
+Plugin AlignTaxa inputfile parameters.txt outputfile ranking.tsv

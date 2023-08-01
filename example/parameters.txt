@@ -1,0 +1,3 @@
+dataFilename	human_ibd_microbiota.tsv
+useSplines	True
+referenceSampleID	102
