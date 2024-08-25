@@ -1,0 +1,2 @@
+Reference SampleID	Aligned SampleID	TaxonError	a	b	alpha	beta	overlap	Taxa Names	Alignment Scores (SSD)
+102	1	0.004528426558762306	0.6	7.5	7.5	30.3	0.5066666666666667	s__Faecalibacterium_prausnitzii	0.15224105576038605	s__Bacteroides_thetaiotaomicron	0.2744276808474435	s__Akkermansia_muciniphila	0.08983174198954524	s__Dialister_invisus	0.010724689618683695
